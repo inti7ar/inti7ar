@@ -1,4 +1,4 @@
-var urlracin="http://localhost/srcs";$(function(){if(navigator.cookieEnabled)
+var urlracin="https://inti7ar.github.io/srcs";$(function(){if(navigator.cookieEnabled)
 {if(halfmoon.readCookie('theme')==null)
 halfmoon.createCookie('theme','auto',60);if(halfmoon.readCookie('darkModeOn')==null)
 halfmoon.createCookie('darkModeOn','yes',60);}
